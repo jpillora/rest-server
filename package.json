@@ -1,0 +1,22 @@
+{
+  "name": "node-seed",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "lodash": "*",
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+    "which": "*",
+    "mocha": "*",
+    "chai": ">= 0.0.1",
+    "should": "*",
+    "supervisor": "*",
+    "node-inspector": "*"
+  },
+  "engines": {
+    "node": "~0.8.x",
+    "npm": "1.1.x"
+  }
+}
