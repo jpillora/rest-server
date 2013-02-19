@@ -15,7 +15,7 @@ server.add('user', {
     //default rank 1         2           3
     roles: ['admin', 'manager', 'employee'],
     //custom ranks
-    // 2 can only create/edit/destroy roles > 2
+    // 2 can only create/read/update/destroy roles > 2
     rolesCustom: {
       admin: 1,
       manager: 2,

@@ -1,4 +1,4 @@
-## Rest Easy
+## Rest Server
 
 A mini-framework for RESTful JSON applications based off Mongoose schemas
 

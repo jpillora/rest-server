@@ -1,6 +1,6 @@
 {
-  "name": "rest-easy",
-  "version": "0.0.2-alpha",
+  "name": "rest-server",
+  "version": "0.0.1",
   "dependencies": {
     "express": "3.x",
     "lodash": "*",
