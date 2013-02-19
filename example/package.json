@@ -4,8 +4,7 @@
   "private": true,
   "dependencies": {
     "express": "3.x",
-    "lodash": "*",
-    "coffee-script": "*"
+    "lodash": "*"
   },
   "devDependencies": {
     "which": "*",
@@ -16,7 +15,6 @@
     "node-inspector": "*"
   },
   "engines": {
-    "node": "~0.8.x",
-    "npm": "1.1.x"
+    "node": "~0.8.x"
   }
 }

@@ -1,0 +1,1 @@
+# A sample application exemplifying the use of `rest-easy`

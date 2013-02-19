@@ -1,2 +1,2 @@
 require('coffee-script');
-require('./rest-easy');
+module.exports = require('./rest-easy');

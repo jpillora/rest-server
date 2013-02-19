@@ -1,4 +1,0 @@
---compilers coffee:coffee-script
---reporter list
---slow 50
---timeout 100

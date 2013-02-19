@@ -41,11 +41,11 @@ task 'dev', 'start dev env', (options) ->
   execArray = [
     './node_modules/supervisor/lib/cli-wrapper.js'
     '-w'
-    '.'
+    '../'
     '--no-restart-on'
     'exit'
     '-e'
-    'coffee|jade' 
+    'coffee|js' 
   ]
   execArray.push("--debug") if debug
   execArray.push("--debug-brk") if debugBreak
