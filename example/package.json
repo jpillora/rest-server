@@ -1,5 +1,5 @@
 {
-  "name": "rest-easy-example",
+  "name": "rest-server-example",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

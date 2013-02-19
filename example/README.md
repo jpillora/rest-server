@@ -1,1 +1,1 @@
-# A sample application exemplifying the use of `rest-easy`
+# A sample application exemplifying the use of `rest-server`
