@@ -49,7 +49,7 @@ task 'dev', 'start dev env', (options) ->
   ]
   execArray.push("--debug") if debug
   execArray.push("--debug-brk") if debugBreak
-  execArray.push 'server'
+  execArray.push 'app'
 
   supervisor = spawn 'node', execArray, cmdOpts
   supervisor.stdout.pipe process.stdout
